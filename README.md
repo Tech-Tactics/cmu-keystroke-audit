@@ -4,7 +4,7 @@ Code and coding sheet for the paper by Joseph Black (School of Technology and In
 
 ## Files
 
-- `Black_Joseph_IT745_Project.ipynb`: Jupyter notebook that produces every result in Sections 5.3 and 6 of the paper.
+- `cmu_keystroke_audit.ipynb`: Jupyter notebook that produces every result in Sections 5.3 and 6 of the paper.
 - `coding_sheet.xlsx`: the audit coding sheet, covering the original benchmark paper and the 12 audited studies, with the tally and the citation conflicts in Table 2.
 
 ## Data
